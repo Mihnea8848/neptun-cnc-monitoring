@@ -39,10 +39,10 @@ FALLBACK_PASS = "apneptun"
 
 # --- Configuration (first time config) ---
 current_config = {
-    'ssid': "nepiot",
-    'password': 'iotneptun',
+    'ssid': "YourSSIDhere",
+    'password': 'YourPasswordHere',
     'ip': '',
-    'mqtt_broker': '10.48.48.166',
+    'mqtt_broker': 'MQTTBrokerIpHere',
     'mqtt_port': 1883,
     'mqtt_topic': 'cnc1/status',
     'mqtt_interval': 5
